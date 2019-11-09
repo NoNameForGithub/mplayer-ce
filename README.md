@@ -1,6 +1,6 @@
 About
 
-<img src="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mplayer-ce/mplayerCE_scr.jpg"></img>
+<img src="https://github.com/NoNameForGithub/mplayer-ce/raw/master/mplayerCE_scr.jpg"></img>
 |:--------------------------------------------------------------------------------------------------------------------|
 
 MPlayer CE is a homebrew media player for the Nintendo Wii. It was initially created as a fork of Team Twiizers' port of MPlayer, combining elements of MPlayerWii, GeeXboX and other great homebrew contributions. It is built with devkitPro and not associated with Nintendo in any way.
